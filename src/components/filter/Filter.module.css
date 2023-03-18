@@ -1,0 +1,19 @@
+.filter-description {
+  margin-bottom: 10px;
+}
+
+.filter-input {
+  padding: 5px;
+  border: 1px solid #008cba;
+  border-radius: 3px;
+  margin-top: 10px;
+
+}
+.label{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 10px;
+  font-weight: 600;
+
+}

@@ -1,0 +1,23 @@
+.label {
+  display: flex;
+  margin-bottom: 10px;
+  justify-content: space-between;
+  font-weight: 600;
+}
+
+.input {
+  padding: 5px;
+  border: 1px solid #008cba;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.button {
+  background-color: #008cba;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+}
